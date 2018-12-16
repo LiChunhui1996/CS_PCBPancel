@@ -1,0 +1,10 @@
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\bin\Release\PCBPancel.exe.config
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\bin\Release\PCBPancel.exe
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\bin\Release\PCBPancel.pdb
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.csprojResolveAssemblyReference.cache
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.Form1.resources
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.Properties.Resources.resources
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.csproj.GenerateResource.Cache
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.csproj.CoreCompileInputs.cache
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.exe
+D:\MyData\VisualStdio\PCBPancel\PCBPancel\obj\Release\PCBPancel.pdb
